@@ -728,7 +728,8 @@ textarea {
 @media (max-width: 576px) {
 
     .wrapper {
-        background-position: 300px 200px;
+        background-position: 215px 180px;
+        background-size: 100%;
     }
 
     .container {
@@ -819,7 +820,7 @@ textarea {
         color: #CF3031;
         font-size: 24px;
         font-weight: 700;
-        transition-duration: .25s;
+        transition-duration: .5s;
     }
 
     .menu-item:hover {
